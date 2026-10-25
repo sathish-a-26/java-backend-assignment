@@ -32,7 +32,7 @@ public class Filehands {
 
         set.add(10);
         set.add(20);
-        set.add(10);
+        set.add(10); 
         set.add(30);
         set.add(20);
 
